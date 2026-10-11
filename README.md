@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rakesh+K;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Salesforce+Certified+Platform+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Rakesh+K;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Salesforce+Certified+Platform+Developer" alt="Typing animation" />
 </h1>
 
 <h3 align="center">
