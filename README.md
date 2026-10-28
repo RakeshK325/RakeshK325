@@ -1,189 +1,133 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Rakesh+K;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Salesforce+Certified+Platform+Developer" alt="Typing animation" />
-</h1>
-
-<h3 align="center">
-🌐 Full Stack Web Developer | ⚛️ React & Next.js | ☁️ Salesforce Certified | 🚀 Modern UI/UX Builder
-</h3>
-
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=RAKESH%20K&fontSize=45&fontColor=00FFCC&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=RAKESH%20K&fontSize=48&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Salesforce%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=60&descColor=A8E6DB" alt="Rakesh K header"/>
 </p>
 
 <p align="center">
-  CS undergraduate (2027) · Open to entry-level Software Developer roles
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=760&lines=I+build+full-stack+apps+that+ship.;React+%2B+Next.js+on+the+front%2C+Node+on+the+back.;I+teach+LLMs+to+do+useful+things+inside+products.;Salesforce+Certified+Platform+Developer.;Research+paper+accepted+at+IICCCS-2026." alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Entry--level%20SDE%20roles-00FFCC?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=2C5364"/>
+  <img src="https://img.shields.io/badge/Graduating-2027-0D1117?style=flat-square&labelColor=0D1117&color=2C5364"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## `~/rakesh/whoami`
 
-# 💻 About Me
-
-```yaml
-Name: Rakesh K
-
-Role:
-  - Full Stack Web Developer
-  - Salesforce Platform Developer
-
-Education:
-  - B.E. Computer Science & Engineering (2023 - 2027)
-  - Alva's Institute of Engineering and Technology, Mangalore
-
-Specialization:
-  - Frontend Development (React, Next.js, Tailwind)
-  - Backend Development (Node.js, Express, REST APIs)
-  - Salesforce (Apex, LWC, Flows, SOQL)
-  - AI-integrated web applications
-
-Currently Working On:
-  - Target-X: AI-powered CRISPR gRNA design platform
-
-Currently Learning:
-  - Docker & Kubernetes
-  - CI/CD
-  - Scalable Architecture
-  - Cloud Computing
-
-Passionate About:
-  - Clean UI/UX
-  - Secure, scalable systems
-  - Applying AI to real products
+```ts
+const rakesh: Developer = {
+  role:       "Final-year CSE student → Software Developer",
+  college:    "Alva's Institute of Engineering & Technology",
+  certified:  ["Salesforce Platform Developer"],
+  builds:     ["MERN apps", "Next.js + TypeScript products", "LLM-powered features"],
+  strengths:  ["secure auth (JWT / RBAC)", "clean REST APIs", "responsive UI", "data modelling"],
+  published:  "TargetX: AI-assisted CRISPR gRNA design (IICCCS-2026, 19–20 Nov)",
+  learning:   ["Docker & Kubernetes", "CI/CD", "scalable architecture"],
+  lookingFor: "a team where I can ship real features and learn fast",
+};
 ```
 
-✨ I build modern, scalable, high-performance web applications.
+---
 
-⚡ I love responsive interfaces, clean backend systems, and smooth user experiences.
+## 🏆 Highlights
 
-🏆 Top 30 of 100+ teams at **Udgama National Hackathon 2025** · Finalist at **ICFAI GenAI Hackathon 2025**
-
-🌱 Exploring:
-- React.js & Next.js
-- Node.js & Express
-- Cloud Computing
-- Full Stack Development
-- UI/UX Design
+| | |
+|---|---|
+| 📄 **Research** | Paper *TargetX* accepted at **IICCCS-2026**, Asansol Engineering College |
+| ☁️ **Certified** | **Salesforce Platform Developer**: Apex · LWC · Flows · SOQL · Triggers |
+| 🥇 **Hackathons** | **Top 30 of 100+ teams** at Udgama National Hackathon 2025 · Finalist, **ICFAI GenAI Hackathon 2025** |
+| 💼 **Internship** | Full Stack Development Intern at **Innovation Hacks**, shipped *FlowBoard* end to end |
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Things I've Built
 
-<div align="center">
+### 🧬 Target-X: AI-Powered CRISPR gRNA Design
+An 8-stage pipeline that takes a gene from identification to ranked, explainable guide RNA candidates.
 
-<table>
-<tr>
-<td width="50%">
+- ML ensemble: **XGBoost · LightGBM · Random Forest · CatBoost · PyTorch** predicting on-target efficiency and off-target risk
+- **SHAP explainability** so every ranking can be justified
+- React + TypeScript dashboard on a **tRPC** API, **MySQL** via Drizzle ORM
 
-## 🏢 Faculty Appraisal Portal (FSAMS)
-
-🔹 Role-based appraisal workflow: draft → submitted → HOD-approved → final-reviewed
-
-🔹 JWT auth, RBAC, bcrypt, Helmet, rate limiting
-
-🔹 Scoring engine, PDF export, email notifications, CSV onboarding
-
-🛠️ React · Node.js · Express · MongoDB
-
-🔗 [View Project](https://github.com/rakeshk325/REPO-NAME)
-
-</td>
-
-<td width="50%">
-
-## 💉 VaxTrack: Vaccination Management
-
-🔹 Dual UIP/IAP schedules with dynamic due-date calculation
-
-🔹 Atomic Firestore batch writes for records, appointments, inventory
-
-🔹 Gemini-powered appointment slot recommender
-
-🛠️ Next.js 15 · TypeScript · Firebase · Genkit
-
-🔗 [View Project](https://github.com/RakeshK325/Vaccination-management-System)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🧬 Target-X: CRISPR gRNA Design
-
-🔹 8-stage pipeline from gene identification to ranked candidates
-
-🔹 ML ensemble (XGBoost, LightGBM, Random Forest, CatBoost, PyTorch) with SHAP explainability
-
-🔹 Interactive research dashboard
-
-🛠️ React · TypeScript · tRPC · MySQL · Drizzle ORM
-
-🔗 [View Project](https://github.com/rakeshk325/REPO-NAME)
-
-</td>
-
-<td width="50%">
-
-## 📋 FlowBoard: Project & Task Manager
-
-🔹 Responsive dashboard with a custom design system
-
-🔹 REST API with centralized validation and authentication
-
-🔹 LLM feature that turns project briefs into prioritized tasks
-
-🛠️ Next.js · Tailwind · Express · PostgreSQL
-
-🚀 Deployed on Vercel + Render
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🎯 Future Goals
-
-🔹 Building AI-powered web applications
-🔹 Creating impactful, scalable systems
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,firebase,python,java,c,docker,git,github,postman,salesforce,figma,vscode&theme=dark" />
-</p>
-
----
-
-# 🌐 Web Development Vision
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=Building+Modern+Web+Applications;Responsive+UI%2FUX+Experiences;Scalable+Full+Stack+Systems;Creating+Technology+For+The+Future" />
-</p>
-
-<div align="center">
+`React` `TypeScript` `tRPC` `MySQL` `Python` `PyTorch`
 
 ```mermaid
-graph LR
-A[Frontend<br/>React / Next.js] --> B[Backend<br/>Node / Express]
-B --> C[Database<br/>MongoDB / PostgreSQL / Firebase]
-C --> D[Deployment<br/>Vercel / Render]
-D --> E[Scalable Web Apps]
+flowchart LR
+  A[Gene identification] --> B[Candidate gRNAs] --> C[ML scoring ensemble] --> D[Off-target analysis] --> E[SHAP explanations] --> F[Ranked report]
 ```
-
-</div>
 
 ---
 
-# 📊 GitHub Analytics
+### 🏢 FSAMS: Faculty Self-Appraisal Management System
+A MERN platform for **Faculty → HOD → Principal → Admin** with a status-driven workflow.
+
+- **JWT + RBAC**, bcrypt, Helmet, rate limiting, CORS, department-level access
+- Section-wise scoring, proof uploads (Multer), **PDF export** (Puppeteer), emails (Nodemailer), **CSV bulk onboarding**
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+🔗 [Source code](https://github.com/rakeshk325/REPO-NAME)
+
+---
+
+### 💉 VaxTrack India: Pediatric Vaccination Management
+Parents and hospitals track vaccinations, book appointments and manage stock.
+
+- Calculates **UIP (government) and IAP (private)** due dates from date of birth
+- **Atomic Firestore batch writes** across vaccination, appointment and stock; Security Rules; QR-coded certificates
+- **Genkit + Gemini 2.5 Flash** with Zod-validated output to suggest the best vaccination slot
+
+`Next.js` `TypeScript` `Firebase` `Genkit` `Gemini`
+
+🔗 [Source code](https://github.com/RakeshK325/Vaccination-management-System)
+
+---
+
+### 📋 FlowBoard: Task Manager with an AI Planner
+Built during my internship: frontend, API, database and deployment.
+
+- Responsive Next.js + Tailwind dashboard with reusable components and proper error states
+- Express REST API on **PostgreSQL** with validation and authentication
+- **LLM feature** that turns a project brief into prioritized tasks
+- Deployed on **Vercel + Render**
+
+`Next.js` `Tailwind` `Express` `PostgreSQL`
+
+---
+
+## 🧰 Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,nextjs,nodejs,express,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,pytorch,docker,kubernetes,git,github,postman,vercel,salesforce&theme=dark" />
+</p>
+
+<details>
+<summary><b>Full breakdown</b></summary>
+
+| Area | Stack |
+|---|---|
+| Languages | Java, Python, C, JavaScript, TypeScript, SQL |
+| Frontend | React, Next.js, Vite, Tailwind CSS |
+| Backend | Node.js, Express.js, tRPC, REST APIs, JWT, RBAC |
+| Databases | PostgreSQL, MySQL, MongoDB, Firestore, Mongoose, Drizzle ORM |
+| AI / ML | LLM integration (Genkit, Gemini), scikit-learn, XGBoost, PyTorch |
+| Salesforce | Apex, SOQL/SOSL, LWC, Flows, Triggers, Visualforce, Salesforce DX |
+| DevOps | Git, GitHub, Docker, Vercel, Render · *familiar with* Kubernetes, CI/CD |
+| Core CS | DSA, OOP, DBMS |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakeshk325&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshk325&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakeshk325&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshk325&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
@@ -192,62 +136,17 @@ D --> E[Scalable Web Apps]
 
 ---
 
-# 🐍 Contribution Snake
+## 🤝 Let's Talk
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakeshk325/rakeshk325/output/github-snake-dark.svg" alt="snake animation"/>
+I'm looking for an entry-level **Software Developer** role. If you're hiring, building something interesting, or want to talk about CRISPR + ML, I'd love to hear from you.
+
+<p>
+  <a href="https://linkedin.com/in/rakesh-k325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rakesh-s-3d-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="mailto:rakesh160982@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://kaggle.com/rakeshk32"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
----
-
-# 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/rakesh-k325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://rakesh-s-3d-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  <a href="https://kaggle.com/rakeshk32" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="mailto:rakesh160982@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ohh.itzz__rakesh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### 🚀 “Building fast, scalable, and user-friendly web experiences with modern technologies.”
-
-</div>
-
----
-
-# 📈 Profile Views
-
-<p align="center">
-  <img src="https://hits.sh/github.com/rakeshk325.svg?style=for-the-badge&color=00ffcc&label=Profile%20Views" alt="profile views" />
-</p>
-
----
-
-# ⚡ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
 </p>
