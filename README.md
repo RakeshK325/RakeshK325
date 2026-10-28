@@ -1,8 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=RAKESH%20K&fontSize=48&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Salesforce%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=60&descColor=A8E6DB" alt="Rakesh K header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=RAKESH%20K&fontSize=48&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Salesforce%20Platform%20Developer&descSize=18&descAlignY=60&descColor=A8E6DB" alt="Rakesh K header"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=760&lines=I+build+full-stack+apps+that+ship.;React+%2B+Next.js+on+the+front%2C+Node+on+the+back.;I+teach+LLMs+to+do+useful+things+inside+products.;Salesforce+Certified+Platform+Developer.;Research+paper+accepted+at+IICCCS-2026." alt="Typing animation"/>
 </p>
